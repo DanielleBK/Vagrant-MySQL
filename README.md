@@ -1,1 +1,2 @@
-# Vagrant-MySQL-
+# Vagrant-MySQL 
+Máquina virtual com MySQL
